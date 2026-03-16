@@ -1,0 +1,11 @@
+fullName,email,phone,walletBalance,isBlocked,kycStatus,ipAddress,deviceType,os
+Rahul Sharma,rahul.sharma@example.com,9876543210,1500.50,false,Approved,192.168.1.10,Mobile,Android
+Priya Patel,priya.patel@example.com,9876543211,2500.00,false,Approved,192.168.1.11,Desktop,Windows
+Amit Kumar,amit.kumar@example.com,9876543212,0,false,Pending,192.168.1.12,Mobile,iOS
+Sneha Reddy,sneha.reddy@example.com,9876543213,800.75,true,Rejected,192.168.1.13,Desktop,macOS
+Vikram Singh,vikram.singh@example.com,9876543214,3200.00,false,Approved,192.168.1.14,Mobile,Android
+Neha Gupta,neha.gupta@example.com,9876543215,0,false,Pending,192.168.1.15,Mobile,iOS
+Rohan Joshi,rohan.joshi@example.com,9876543216,450.25,false,Approved,192.168.1.16,Desktop,Windows
+Ananya Iyer,ananya.iyer@example.com,9876543217,1200.00,true,Rejected,192.168.1.17,Mobile,Android
+Karthik Nair,karthik.nair@example.com,9876543218,5000.00,false,Approved,192.168.1.18,Desktop,macOS
+Deepika Verma,deepika.verma@example.com,9876543219,670.30,false,Pending,192.168.1.19,Mobile,iOS

@@ -1,0 +1,67 @@
+[
+  {
+    "fullName": "Arjun Mehta",
+    "email": "arjun.mehta@example.com",
+    "phone": "8876543210",
+    "walletBalance": 3400.00,
+    "isBlocked": false,
+    "kycStatus": "Approved",
+    "deviceInfo": {
+      "ipAddress": "10.0.0.1",
+      "deviceType": "Mobile",
+      "os": "Android"
+    }
+  },
+  {
+    "fullName": "Kavita Rao",
+    "email": "kavita.rao@example.com",
+    "phone": "8876543211",
+    "walletBalance": 150.50,
+    "isBlocked": false,
+    "kycStatus": "Pending",
+    "deviceInfo": {
+      "ipAddress": "10.0.0.2",
+      "deviceType": "Desktop",
+      "os": "Windows"
+    }
+  },
+  {
+    "fullName": "Suresh Pillai",
+    "email": "suresh.pillai@example.com",
+    "phone": "8876543212",
+    "walletBalance": 0,
+    "isBlocked": true,
+    "kycStatus": "Rejected",
+    "deviceInfo": {
+      "ipAddress": "10.0.0.3",
+      "deviceType": "Mobile",
+      "os": "iOS"
+    }
+  },
+  {
+    "fullName": "Meera Krishnan",
+    "email": "meera.krishnan@example.com",
+    "phone": "8876543213",
+    "walletBalance": 8900.00,
+    "isBlocked": false,
+    "kycStatus": "Approved",
+    "deviceInfo": {
+      "ipAddress": "10.0.0.4",
+      "deviceType": "Desktop",
+      "os": "macOS"
+    }
+  },
+  {
+    "fullName": "Rajesh Tiwari",
+    "email": "rajesh.tiwari@example.com",
+    "phone": "8876543214",
+    "walletBalance": 250.00,
+    "isBlocked": false,
+    "kycStatus": "Pending",
+    "deviceInfo": {
+      "ipAddress": "10.0.0.5",
+      "deviceType": "Mobile",
+      "os": "Android"
+    }
+  }
+]
